@@ -42,7 +42,12 @@ con los cambios o con el material nuevo
 que desees añadir,
 ¡Cualquier colaboración es bienvenida!
 
-Licencia
---------
+Licencias
+---------
 
-Revisa el archivo [LICENSE](https://github.com/OpenVE/JavaScript/blob/master/README.md).
+-   Toda la documentación disponible está bajo la licencia:
+    Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0).
+
+-   Todos los programas publicados en este repositorio, menos los que indiquen explicitamente
+    una licencia dentro de sus comentarios, están bajo la licencia:
+    GNU General Public License 3.0.
