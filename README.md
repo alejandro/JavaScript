@@ -23,7 +23,7 @@ las características del lenguaje,
 referencias útiles para tu proceso de aprendizaje,
 cómo instalarlo, cómo usar y configurar las herramientas
 necesarias para realizar programas con JavaScript y
-agunos ejemplos básicos del lenguaje.
+algunos ejemplos básicos del lenguaje.
 
 Adicionalmente, te indicaremos las pautas
 para utilizar este repositorio como tu aliado
@@ -31,8 +31,8 @@ en el aprendizaje de este lenguaje, y cómo
 contribuir, para ayudarnos a proveer información
 cada vez más robusta.
 
-Si tu interes es aprender el lenguaje y aún no está
-disponible la información, sígue el repositorio
+Si tu interés es aprender el lenguaje y aún no está
+disponible la información, sigue el repositorio
 para estar al tanto de cualquier avance.
 
 Si quieres hacer algún aporte, hazle un **[fork](https://help.github.com/articles/fork-a-repo)**
@@ -40,7 +40,7 @@ al repositorio, y luego un **[pull request](https://help.github.com/articles/usi
 cumplir las próximas semana
 con los cambios o con el material nuevo
 que desees añadir,
-¡Cualqueir colaboración es bienvenida!
+¡Cualquier colaboración es bienvenida!
 
 Licencia
 --------
