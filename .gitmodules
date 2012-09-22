@@ -1,0 +1,6 @@
+[submodule "computer-science-in-javascript"]
+	path = computer-science-in-javascript
+	url = git@github.com:nzakas/computer-science-in-javascript
+[submodule "JavaScript-Garden"]
+	path = JavaScript-Garden
+	url = git@github.com:BonsaiDen/JavaScript-Garden.git
